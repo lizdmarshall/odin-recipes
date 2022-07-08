@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(245, 219, 210);
+}
+h1 {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
